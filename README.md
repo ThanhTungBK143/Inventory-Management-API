@@ -2,6 +2,8 @@
 
 ASP.NET Core Web API for product/category/stock management using EF Core + SQLite.
 
+A Work-In-Progress personal project, developed to learn C# and .NET!
+
 ## Setup
 
 1. `dotnet restore`
